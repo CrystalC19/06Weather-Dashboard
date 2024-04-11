@@ -28,5 +28,8 @@ THEN I am again presented with current and future conditions for that city
 - https://cdnjs.com/libraries/jqueryui
 - https://getbootstrap.com/
 - https://www.freecodecamp.org/news/use-local-storage-in-modern-applications/
+- weather app video: https://youtu.be/VaDUGPMjzOM?si=mpq4qgR3wlMGHtnF
+- fetching data: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+
 
 
