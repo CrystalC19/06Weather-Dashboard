@@ -21,7 +21,8 @@ THEN I am again presented with current and future conditions for that city
 
 
 ## Link to deployed Application
-
+- github: https://github.com/CrystalC19/06Weather-Dashboard.git
+- link:  https://crystalc19.github.io/06Weather-Dashboard/index.html
 
 ## Resources
 - https://openweathermap.org/
